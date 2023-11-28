@@ -15,7 +15,7 @@ Department of Psychological and Brain Sciences
 College Station, United States
 Email: mourao.fg@gmail.com / mourao.fg@tamu.edu <br />
 
-Leonardo Oliveira Guarnieri, PhD<br />
+Leonardo de Oliveira Guarnieri, PhD<br />
 Postdoctoral Fellow at Universidade Federal de Minas Gerais (UFMG)<br />
 Instituto de Ciências Biológicas (ICB)<br /> 
 Belo Horizonte,MG Brazil<br />
