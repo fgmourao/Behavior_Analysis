@@ -9,15 +9,15 @@
 
 Correspondence:<br />
 
-Flávio Afonso Gonçalves Mourão , PhD<br />
-Postdoctoral Fellow at Texas A&M University<br />
-Department of Psychological and Brain Sciences<br />
-College Station, United States<br />
-Email: mourao.fg@gmail.com / mourao.fg@tamu.edu <br />
-
 Leonardo de Oliveira Guarnieri, PhD<br />
 Postdoctoral Fellow at Universidade Federal de Minas Gerais (UFMG)<br />
 Instituto de Ciências Biológicas (ICB)<br /> 
 Belo Horizonte, Brazil<br />
 Email: leoguarnieri@gmail.com <br />
+
+Flávio Afonso Gonçalves Mourão , PhD<br />
+Postdoctoral Fellow at Texas A&M University<br />
+Department of Psychological and Brain Sciences<br />
+College Station, United States<br />
+Email: mourao.fg@gmail.com / mourao.fg@tamu.edu <br />
 <br />
