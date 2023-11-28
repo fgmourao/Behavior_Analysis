@@ -12,7 +12,7 @@ Correspondence:<br />
 Flávio Afonso Gonçalves Mourão , PhD<br />
 Postdoctoral Fellow at Texas A&M University
 Department of Psychological and Brain Sciences
-College Station, United States
+College Station, United States<br />
 Email: mourao.fg@gmail.com / mourao.fg@tamu.edu <br />
 
 Leonardo de Oliveira Guarnieri, PhD<br />
