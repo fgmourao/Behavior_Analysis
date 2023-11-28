@@ -1,4 +1,4 @@
-# Matlab scripts for behavior analysis based Bonsai workflows
+# Matlab scripts for behavior analysis based on Bonsai workflows
 
 - Bonsai software-based workflows (https://bonsai-rx.org) for tracking rodents during behavioral tasks such as elevated plus maze, open field, odor discrimination, and social recognition.<br />
 
