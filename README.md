@@ -10,8 +10,10 @@
 Correspondence:<br />
 
 Flávio Afonso Gonçalves Mourão , PhD<br />
-Postdoctoral Fellow at Texas A&M University<br />
-Department of Psychological and Brain Sciences<br />
-College Station, United States<br />
-Email: mourao.fg@gmail.com / mourao.fg@tamu.edu <br />
+Research Scientist<br />
+Beckman Institute for Advanced Science and Technology<br />
+University of Illinois at Urbana-Champaign<br />
+Urbana-Champaign, United States<br />
+
+mourafg@illinois.edu<br />
 <br />
